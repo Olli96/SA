@@ -31,12 +31,12 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.newToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.printToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.seachToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.reportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ใบToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ใบQuotationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.seachToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.คนหางานเดมToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.คนหางานใหมToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.รายงานประจำวนToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.รายงานประจำเดอนToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.รายงานประจำปToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -80,33 +80,6 @@
             this.printToolStripMenuItem.Size = new System.Drawing.Size(82, 36);
             this.printToolStripMenuItem.Text = "Print";
             // 
-            // seachToolStripMenuItem
-            // 
-            this.seachToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.คนหางานเดมToolStripMenuItem,
-            this.คนหางานใหมToolStripMenuItem});
-            this.seachToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.seachToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Control;
-            this.seachToolStripMenuItem.Image = global::SASCOSYSTEM.Properties.Resources.file;
-            this.seachToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
-            this.seachToolStripMenuItem.Name = "seachToolStripMenuItem";
-            this.seachToolStripMenuItem.Size = new System.Drawing.Size(86, 36);
-            this.seachToolStripMenuItem.Text = "Search";
-            // 
-            // reportToolStripMenuItem
-            // 
-            this.reportToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.รายงานประจำวนToolStripMenuItem,
-            this.รายงานประจำเดอนToolStripMenuItem,
-            this.รายงานประจำปToolStripMenuItem});
-            this.reportToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.reportToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Control;
-            this.reportToolStripMenuItem.Image = global::SASCOSYSTEM.Properties.Resources.report__2_;
-            this.reportToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
-            this.reportToolStripMenuItem.Name = "reportToolStripMenuItem";
-            this.reportToolStripMenuItem.Size = new System.Drawing.Size(86, 36);
-            this.reportToolStripMenuItem.Text = "Report";
-            // 
             // ใบToolStripMenuItem
             // 
             this.ใบToolStripMenuItem.Name = "ใบToolStripMenuItem";
@@ -119,6 +92,19 @@
             this.ใบQuotationToolStripMenuItem.Size = new System.Drawing.Size(186, 22);
             this.ใบQuotationToolStripMenuItem.Text = "ใบ Quotation";
             // 
+            // seachToolStripMenuItem
+            // 
+            this.seachToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.คนหางานเดมToolStripMenuItem,
+            this.คนหางานใหมToolStripMenuItem});
+            this.seachToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.seachToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Control;
+            this.seachToolStripMenuItem.Image = global::SASCOSYSTEM.Properties.Resources.file;
+            this.seachToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
+            this.seachToolStripMenuItem.Name = "seachToolStripMenuItem";
+            this.seachToolStripMenuItem.Size = new System.Drawing.Size(92, 36);
+            this.seachToolStripMenuItem.Text = "Search";
+            // 
             // คนหางานเดมToolStripMenuItem
             // 
             this.คนหางานเดมToolStripMenuItem.Name = "คนหางานเดมToolStripMenuItem";
@@ -130,6 +116,20 @@
             this.คนหางานใหมToolStripMenuItem.Name = "คนหางานใหมToolStripMenuItem";
             this.คนหางานใหมToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
             this.คนหางานใหมToolStripMenuItem.Text = "ค้นหางานใหม่";
+            // 
+            // reportToolStripMenuItem
+            // 
+            this.reportToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.รายงานประจำวนToolStripMenuItem,
+            this.รายงานประจำเดอนToolStripMenuItem,
+            this.รายงานประจำปToolStripMenuItem});
+            this.reportToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.reportToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Control;
+            this.reportToolStripMenuItem.Image = global::SASCOSYSTEM.Properties.Resources.report__2_;
+            this.reportToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
+            this.reportToolStripMenuItem.Name = "reportToolStripMenuItem";
+            this.reportToolStripMenuItem.Size = new System.Drawing.Size(93, 36);
+            this.reportToolStripMenuItem.Text = "Report";
             // 
             // รายงานประจำวนToolStripMenuItem
             // 

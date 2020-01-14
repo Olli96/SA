@@ -18,3 +18,14 @@ C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.UserCont
 C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.csproj.GenerateResource.Cache
 C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\bin\Debug\SASCOSYSTEM.exe
 C:\Users\NTOS\Desktop\SASCOSYSTEM\SASCOSYSTEM\bin\Debug\SASCOSYSTEM.pdb
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.exe
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.pdb
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\bin\Debug\SASCOSYSTEM.exe
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\bin\Debug\SASCOSYSTEM.pdb
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form1.resources
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form2.resources
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Form3.resources
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.Properties.Resources.resources
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.UserControl1.resources
+C:\Users\Natthakit\Downloads\SA-master\SASCOSYSTEM\SASCOSYSTEM\obj\x86\Debug\SASCOSYSTEM.csproj.GenerateResource.Cache
